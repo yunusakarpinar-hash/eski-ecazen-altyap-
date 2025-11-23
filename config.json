@@ -1,0 +1,8 @@
+{
+    "token" : "botunun tokenini gir yarram",
+    "ownerIDs" : [
+        "key oluşturma için 1. owner id", 
+        "key oluşturma için 2. owner id" 
+    ],
+    "prefix": "+"
+}

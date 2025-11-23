@@ -1,0 +1,21 @@
+{
+  "name": "bexa swbum",
+  "version": "1.0.0",
+  "description": "Eğlence amaçlı bum by bexa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "nodejs",
+    "key-system"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
